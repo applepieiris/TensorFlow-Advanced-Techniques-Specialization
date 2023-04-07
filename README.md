@@ -1,8 +1,10 @@
 # TensorFlow-Advanced-Techniques-Specialization
 
- [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+This is my implementation of the class assignments of the Specialization teached by Laurence Moroney. I add some modifies and other reading materials in addition to the old labs and assignments. 
+In each Course directory, I also put the slides in it for other to reference. More information can be found in this course's website and [Deepleaning.ai community](https://community.deeplearning.ai/).
 
-![](https://github.com/ashishpatel26/TensorFlow-Advanced-Techniques-Specialization/blob/main/images/main.jpg)
+By the way, I want to notice who want to learn this course that you may need to go to another basic [course](https://www.coursera.org/professional-certificates/tensorflow-in-practice). This is also teached by Laurence and covers some basic knowledge you must know before stepping into this Advanced Techniques Specialization.
+
 
 [**Course Link**](https://www.coursera.org/specializations/tensorflow-advanced-techniques)
 
